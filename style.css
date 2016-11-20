@@ -31,11 +31,11 @@ body{
 #uploaded_image{
 	display: block;
 	width: 20vw;
-	height: 20vw;
 	margin: 0 auto;
 	border: 1px solid #BCBCBC;
 }
 #averages_returned{
 	width: 40vw;
+	margin: 0vw 0vw 0vw 20vw;
 	border: 1px solid #000000;
 }
